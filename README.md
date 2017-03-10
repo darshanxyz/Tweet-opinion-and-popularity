@@ -1,2 +1,2 @@
 # Tweet-opinion-and-popularity
-It's got tweets and makes the machine analyse them. Nothing much.
+It deals with tweets and makes the machine analyse them. Nothing much.
